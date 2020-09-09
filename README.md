@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 # My Qiita Works
-
-# My Qiita posts
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/t1k2a/posts.svg)](http://qiita.com/t1k2a) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/t1k2a/contributions.svg)](http://qiita.com/t1k2a) [![My Qiita followers](https://qiita-badge.apiapi.app/s/t1k2a/followers.svg)](http://qiita.com/t1k2a)
                 
  # Repo Summary
