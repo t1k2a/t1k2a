@@ -3,11 +3,7 @@
 # My Qiita Works
 
 # My Qiita posts
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/t1k2a/posts.svg)](http://qiita.com/t1k2a)
-# My Qiita contributions
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/t1k2a/contributions.svg)](http://qiita.com/t1k2a)
-# My Qiita followers
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/t1k2a/followers.svg)](http://qiita.com/t1k2a)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/t1k2a/posts.svg)](http://qiita.com/t1k2a) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/t1k2a/contributions.svg)](http://qiita.com/t1k2a) [![My Qiita followers](https://qiita-badge.apiapi.app/s/t1k2a/followers.svg)](http://qiita.com/t1k2a)
                 
  # Repo Summary
 [![](https://raw.githubusercontent.com/t1k2a/t1k2a/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
