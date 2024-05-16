@@ -11,6 +11,10 @@
 
 [![](https://raw.githubusercontent.com/t1k2a/t1k2a/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+# Lapras Score
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 
 <!--
 **t1k2a/t1k2a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
